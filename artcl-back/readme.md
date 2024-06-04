@@ -16,7 +16,7 @@ git clone https://github.com/QCmetrologist/artcl_back.git
 2. Navigate to the project directory:
 
 ```bash
-cd articles_backend
+cd artcl_back
 ```
 3. Create and fill .env file:
    
@@ -125,7 +125,7 @@ Authorization is handled using role-based access control. The backend includes m
 
 ## Errors
 
-The backend API of the articles_backend repository handles various HTTP requests and responds with appropriate status codes to indicate the success or failure of the operation. Here are the common HTTP status codes encountered in the backend:
+The backend API of the artcl_back repository handles various HTTP requests and responds with appropriate status codes to indicate the success or failure of the operation. Here are the common HTTP status codes encountered in the backend:
 
 - **400 Bad Request**
     - *Description*: This status code is returned when the server cannot process the request due to malformed syntax or invalid parameters in the client's request.
